@@ -1,0 +1,3 @@
+2024-05-20 16:14:47 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JOBRUNR_MIGRATIONS" not found (this database is empty); SQL statement:
+select count(*) from jobrunr_migrations where script = ? [42104-212]
